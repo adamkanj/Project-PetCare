@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "+SjnBCxc3RxY+7YxbdiCxJXQrUac2xWhuNEj5TVNau4=",
+  "Source": "VetApp",
+  "BasePath": "_content/VetApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VetApp\\wwwroot",
+      "Source": "VetApp",
+      "ContentRoot": "C:\\Users\\Ahmad Malak\\Desktop\\web practice\\youtube\\VetApp\\VetApp\\wwwroot\\",
+      "BasePath": "_content/VetApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
